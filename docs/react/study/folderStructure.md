@@ -7,3 +7,6 @@ last_update:
 ---
 
 # 파일구조 전략
+
+https://medium.com/frontend-canteen/how-do-you-structure-your-react-projects-folder-b3ac30642e8c
+https://dev.to/rubemfsv/clean-architecture-applying-with-react-40h6

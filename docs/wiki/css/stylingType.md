@@ -5,8 +5,10 @@ last_update:
   author: sewonkimm
 ---
 
+# CSS의 역사
 # 웹 컴포넌트 스타일링 관리 방법
 
+https://yozm.wishket.com/magazine/detail/1319/
 https://www.samsungsds.com/kr/insights/web_component.html
 
 ## CSS Modules
